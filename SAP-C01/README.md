@@ -139,7 +139,8 @@ It validates an examinee's ability to:
 
 ## My other AWS Certification Notes
 
-- [AWS Certified Developer – Associate (DVA-C01)](https://github.com/Ernyoke/certified-aws-developer-associate-notes)
-- [AWS Certified Solutions Architect – Associate (SAA-C02)](https://github.com/Ernyoke/certified-aws-solutions-architect-associate)
-- [AWS Certified SysOps – Associate (SOA-C01)](https://github.com/Ernyoke/certified-aws-sysops-associate)
-- [AWS Certified DevOps Engineer – Professional (DOP-C01)](https://github.com/Ernyoke/certified-aws-devops-professional)
+- [AWS Certified Developer – Associate (DVA-C01)](https://github.com/aireddy73/AWS/tree/main/DVA-C01)
+- [AWS Certified Solutions Architect – Associate (SAA-C02)](https://github.com/aireddy73/AWS/tree/main/SAA-C02)
+- [AWS SysOps Administrator Associate SOA-C02](https://github.com/aireddy73/AWS/tree/main/SOA-C02)
+- [AWS Certified DevOps Engineer – Professional (DOP-C01)](https://github.com/aireddy73/AWS/tree/main/DOP-C01)
+- [AWS Certified Solutions Architect – Professional (SAP-C01)](https://github.com/aireddy73/AWS/tree/main/SAP-C01)
