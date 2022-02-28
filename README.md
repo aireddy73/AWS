@@ -6,9 +6,7 @@
  - [AWS Certified Solutions Architect – Associate](https://github.com/aireddy73/AWS/tree/main/SAA-C02)
  - [AWS Certified SysOps Administrator - Associate](https://github.com/aireddy73/AWS/tree/main/SOA-C02)
  
- - [AWS Certified Solutions Architect - Professional](images/SAP-C01.png)
  - [AWS Certified Solutions Architect - Professional](https://github.com/aireddy73/AWS/tree/main/SAP-C01)
- 
  - [AWS Certified DevOps Engineer - Professional](https://github.com/aireddy73/AWS/tree/main/DOP-C01)
  
  - [AWS Certified Advanced Networking - Specialty](https://github.com/aireddy73/AWS/tree/main/ANS-C01)
