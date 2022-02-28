@@ -3,18 +3,7 @@
 ## Table of contents
 
 - AWS Fundamentals
-    - [IAM: Identity Access & Management](1-aws-fundamentals/iam.md)
-    - [EC2: Virtual Machines](1-aws-fundamentals/ec2.md)
-    - [Security Groups](1-aws-fundamentals/security-groups.md)
-    - [ELB: Elastic Load Balancers](1-aws-fundamentals/elb.md)
-    - [ASG: Auto Scaling Group](1-aws-fundamentals/asg.md)
-    - [EBS: Elastic Block Store](1-aws-fundamentals/ebs.md)
-    - [EFS: Elastic File System](1-aws-fundamentals/efs.md)
-    - [RDS: Relational Database Service](1-aws-fundamentals/rds.md)
-    - [Route 53](1-aws-fundamentals/route53.md)
-    - [ElastiCache](1-aws-fundamentals/elasticache.md)
-    - [VPC: Virtual Private Cloud](1-aws-fundamentals/vpc.md)
-    - [S3 Buckets](1-aws-fundamentals/s3.md)
+   
 
 
 
