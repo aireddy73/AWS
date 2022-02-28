@@ -1,4 +1,6 @@
 # AWS Certified Cloud Practitioner(CLF-C01) Notes
+  ![AWS Certified Cloud Practitioner(CLF-C01](https://github.com/aireddy73/AWS/blob/main/images/CLF-C01.png)
+
 
 ## Table of contents
 
