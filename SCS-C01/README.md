@@ -1,0 +1,1 @@
+AWS Certified Security - Specialty
