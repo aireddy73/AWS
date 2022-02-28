@@ -1,5 +1,6 @@
 # AWS Certified Solutions Architect – Professional (SAP-C01) Notes
 
+    ![AWS Certified Solutions Architect - Professional](images/SAP-C01.png)
 ## Table of Contents
 
 1. Permissions, Identity and Federation
