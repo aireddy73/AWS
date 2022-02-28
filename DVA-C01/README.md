@@ -109,5 +109,5 @@
  - [AWS Certified Advanced Networking - Specialty (ANS-C01)](https://github.com/aireddy73/AWS/tree/main/ANS-C01)
  - [AWS Certified Security - Specialty (SCS-C01)](https://github.com/aireddy73/AWS/tree/main/SCS-C01)
  - [AWS Certified Data Analytics - Specialty (DAS-C01)](https://github.com/aireddy73/AWS/tree/main/DAS-C01)
- - [AWS Certified Database - Specialty] (DBS-C01)](https://github.com/aireddy73/AWS/tree/main/DBS-C01)
--  [AWS Certified Machine Learning – Specialty (MLS-C01)](https://github.com/aireddy73/AWS/tree/main/MLS-C01)
+ - [AWS Certified Database - Specialty DBS-C01)](https://github.com/aireddy73/AWS/tree/main/DBS-C01)
+ - [AWS Certified Machine Learning – Specialty (MLS-C01)](https://github.com/aireddy73/AWS/tree/main/MLS-C01)
