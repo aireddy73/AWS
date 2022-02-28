@@ -1,6 +1,4 @@
-# AWS
-
-# AWS Certification Prepation Notes 
+## AWS Certification Prepation Notes 
 
 
  - [AWS Certified Cloud Practitioner](https://github.com/aireddy73/AWS/tree/main/CLF-C01)
