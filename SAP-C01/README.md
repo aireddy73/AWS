@@ -1,9 +1,9 @@
 # AWS Certified Solutions Architect – Professional (SAP-C01) Notes
 
-    ![AWS Certified Solutions Architect - Professional](images/SAP-C01.png)
+  
     
-- Policy evaluation logic - same account:
-    ![policy evaluation logic - same account](images/PolicyEvaluation1.png)
+- AWS Certified Solutions Architect - Professional
+   ![AWS Certified Solutions Architect - Professional](images/SAP-C01.png)
 - Policy evaluation logic - different account:
     ![policy evaluation logic - different account](images/PolicyEvaluation2.png)
 ## Table of Contents
