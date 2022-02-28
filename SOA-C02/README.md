@@ -1,4 +1,5 @@
-# certified-aws-sysops-associate
+# AWS Certified SysOps Administrator - Associate(SOA-C02)
+![AWS Certified SysOps Administrator - Associate(SOA-C02](https://github.com/aireddy73/AWS/blob/main/images/SOA-C02.png)
 
 ## Warning
 
