@@ -1,6 +1,8 @@
 # AWS Certified DevOps Engineer - Professional (DOP-C01)
     
-   ![AWS Certified DevOps Engineer - Professional ](images/DOP-C01.png)
+   ![AWS Certified DevOps Engineer - Professional ](https://github.com/aireddy73/AWS/blob/main/images/DOP-C01.png) 
+   
+  
 ## Table of Contents
 
 1. SDLC Automation
