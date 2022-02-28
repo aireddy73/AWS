@@ -1,8 +1,7 @@
 # AWS Certified Solutions Architect - Professional
+![AWS Certified Solutions Architect - Professional](https://github.com/aireddy73/AWS/blob/main/images/SAP-C01.png)
+   
 
-  
-    
-   ![AWS Certified Solutions Architect - Professional](images/SAP-C01.png)
 
 ## Table of Contents
 
