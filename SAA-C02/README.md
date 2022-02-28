@@ -1,5 +1,6 @@
 # AWS Certified Solutions Architect - Associate (SAA-S02)
 ![AWS Certified Solutions Architect - Associate](https://github.com/aireddy73/AWS/blob/main/images/SAA-C02.png)
+
 ## Table of Contents
 
 1. Fundamentals
