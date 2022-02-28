@@ -15,7 +15,7 @@
  - [AWS Certified Security - Specialty](https://github.com/aireddy73/AWS/tree/main/SCS-C01)
  - [AWS Certified Data Analytics - Specialty](https://github.com/aireddy73/AWS/tree/main/DAS-C01)
  - [AWS Certified Database - Specialty](https://github.com/aireddy73/AWS/tree/main/DBS-C01)
--  [[AWS Certified Machine Learning – Specialty](https://github.com/aireddy73/AWS/tree/main/MLS-C01)
+-  [AWS Certified Machine Learning – Specialty](https://github.com/aireddy73/AWS/tree/main/MLS-C01)
  
        
 
