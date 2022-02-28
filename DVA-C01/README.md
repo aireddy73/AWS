@@ -1,5 +1,5 @@
 # AWS Certified Developer – Associate (DVA-C01) Notes
-
+![AWS Certified Developer – Associate](images/DVA-C01.png)
 ## Table of contents
 
 - AWS Fundamentals
