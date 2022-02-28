@@ -1,23 +1,23 @@
 # AWS
 
-AWS Certification Notes 
+# AWS Certification Prepation Notes 
 
 
- -[AWS Certified Cloud Practitioner](images/CLF-C01.png)
- -[AWS Certified Developer - Associate](images/DVA-C01.png)
- -[AWS Certified Solutions Architect – Associate](images/SAA-C02.png)
- -[AWS Certified SysOps Administrator - Associate](images/SOA-C02.png)
+ - [AWS Certified Cloud Practitioner](https://github.com/aireddy73/AWS/tree/main/CLF-C01)
+ - [AWS Certified Developer - Associate](https://github.com/aireddy73/AWS/tree/main/DVA-C01)
+ - [AWS Certified Solutions Architect – Associate](https://github.com/aireddy73/AWS/tree/main/SAA-C02)
+ - [AWS Certified SysOps Administrator - Associate](https://github.com/aireddy73/AWS/tree/main/SOA-C02)
  
- -[AWS Certified Solutions Architect - Professional](images/SAP-C01.png)
- -[AWS Certified Solutions Architect - Professional](https://github.com/aireddy73/AWS/tree/main/SAP-C01)
+ - [AWS Certified Solutions Architect - Professional](images/SAP-C01.png)
+ - [AWS Certified Solutions Architect - Professional](https://github.com/aireddy73/AWS/tree/main/SAP-C01)
  
- -[AWS Certified DevOps Engineer - Professional](images/DOP-C01.png)
+ - [AWS Certified DevOps Engineer - Professional](https://github.com/aireddy73/AWS/tree/main/DOP-C01)
  
- -[AWS Certified Advanced Networking - Specialty](images/ANS-C01.png)
- -[AWS Certified Security - Specialty](images/SCS-C01.png)
- -[AWS Certified Data Analytics - Specialty](images/DAS-C01.png)
- -[AWS Certified Database - Specialty](images/DBS-C01.png)
- ![AWS Certified Machine Learning – Specialty](images/MLS-C01.png)
+ - [AWS Certified Advanced Networking - Specialty](https://github.com/aireddy73/AWS/tree/main/ANS-C01)
+ - [AWS Certified Security - Specialty](https://github.com/aireddy73/AWS/tree/main/SCS-C01)
+ - [AWS Certified Data Analytics - Specialty](https://github.com/aireddy73/AWS/tree/main/DAS-C01)
+ - [AWS Certified Database - Specialty](https://github.com/aireddy73/AWS/tree/main/DBS-C01)
+-  [[AWS Certified Machine Learning – Specialty](https://github.com/aireddy73/AWS/tree/main/MLS-C01)
  
        
 
